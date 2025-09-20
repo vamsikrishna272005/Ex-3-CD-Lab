@@ -1,6 +1,7 @@
 # Ex-3-RECOGNITION-OF-A-VALID-ARITHMETIC-EXPRESSION-THAT-USES-OPERATOR-AND-USING-YACC
 # Name:Vamsi Krishna G
 # Reg No:212223220120
+# Date: 20-09-2025
 # AIM
 To write a yacc program to recognize a valid arithmetic expression that uses operator +,- ,* and /.
 # ALGORITHM
@@ -64,8 +65,8 @@ yyparse();
 }
 ```
 # OUTPUT
-![377791254-5aae3b01-4919-4b58-91cf-0c20e269ebb7](https://github.com/user-attachments/assets/772cafb6-6cc0-47eb-a199-1edfb2a65505)
 
+<img width="1472" height="693" alt="Screenshot 2025-09-20 162337" src="https://github.com/user-attachments/assets/aa3407e6-9396-4d25-b021-b39bc9b242da" />
 
 
 # RESULT
